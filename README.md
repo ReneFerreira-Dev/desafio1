@@ -88,5 +88,5 @@ Este projeto é de uso livre e pode ser modificado conforme a necessidade.
 
 ---
 
-Desenvolvido com ❤ por [Seu Nome]! (Substitua pelo seu nome ou perfil do GitHub)
+Desenvolvido com ❤ por Renê!
 
